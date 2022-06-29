@@ -7,7 +7,6 @@ import discord
 import random
 from discord import colour
 import os
-from dotenv import load_dotenv
 import youtube_dl
 from discord.errors import Forbidden
 from discord import Member
