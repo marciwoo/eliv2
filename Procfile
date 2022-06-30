@@ -1,1 +1,1 @@
-wokrer: python eliv2.py
+worker: python eliv2.py
