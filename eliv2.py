@@ -231,4 +231,4 @@ async def ark (ctx,name = 'ark', aliases=['ARK']):
 
   await ctx.send(embed=embed)  
 
-bot.run(os.environ["DISCORD_TOKEN"])
+bot.run("OTQ4NjI4MDM4MzIzNjgzMzI5.GS5roc.2wPM7DzRowifnEd8TwMWw3un539CXPdExsCnRk")
